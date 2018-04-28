@@ -1,2 +1,2 @@
 Email written in HTML, responsive<br>
-https://github.com/monikadembek/html-email/index.html
+https://monikadembek.github.io/html-email/index.html
